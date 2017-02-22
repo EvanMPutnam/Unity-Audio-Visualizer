@@ -3,6 +3,7 @@ Unity Audio Visualizer which works with the default microphone of a device.
 
 
 TODO:
+
     1: Include an interface to change settings from outside of unity editor.
     2: More visualizations??? Maybe...
 
