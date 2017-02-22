@@ -9,10 +9,10 @@ TODO:
 
 Has 4 components in the unity Assets folder.
 
-1: Main scene in which to run.
-2: Shader for blocks
-3: Blocks
-4: AudioViz Script
+    1: Main scene in which to run.
+    2: Shader for blocks.
+    3: Blocks.
+    4: AudioViz Script.
 
 The application works by getting sample data from the audio and then adjusting height of colored blocks to get an audio
 visualization.
